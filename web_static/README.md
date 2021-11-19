@@ -196,7 +196,7 @@ Requirements:
     -   `styles/3-header.css`: for the header style
     -   `styles/3-footer.css`: for the footer style
 
-![](https://holbertonintranet.s3.amazonaws.com/uploads/medias/2020/9/101096090ff2b87a86083d61789d597774400d5d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOU5BHMTQX4%2F20211119%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20211119T162205Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=fe1f865cd87671331cd4227413b75c04752de2f4e3294d47e7406345e712f6f7)
+![](https://user-images.githubusercontent.com/85469830/142686139-9f97e754-e00b-49cc-b901-773565067f90.png)
 
 **Repo:**
 
@@ -254,7 +254,7 @@ Requirements:
     -   `styles/4-filters.css`: for the filters style
 -   `4-index.html`  **won’t be W3C valid**, don’t worry, it’s temporary
 
-![](https://holbertonintranet.s3.amazonaws.com/uploads/medias/2020/9/0fc91d5d4d62955575dc65a93d9823cf4dc72133.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOU5BHMTQX4%2F20211119%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20211119T162205Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=144a9965aeec3ef51eb5b4298f9f09d6b7b13f0cfd957889f3d42cd3fed58603)
+![](https://user-images.githubusercontent.com/85469830/142686221-20818149-f17e-4509-9ed5-4f52d61d761f.png)
 
 **Repo:**
 
@@ -302,7 +302,7 @@ Requirements:
     -   `styles/3-footer.css`: for the footer style
     -   `styles/5-filters.css`: for the filters style
 
-![](https://holbertonintranet.s3.amazonaws.com/uploads/medias/2020/9/63600f1cf5fad5711e6ebba03421fe980d498ec5.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOU5BHMTQX4%2F20211119%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20211119T162205Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=53279098a5ca530d9be9411fd62400b185071e4b0a7a66f35fc78c4bc084ab18)
+![](https://user-images.githubusercontent.com/85469830/142686297-ec81ba99-135c-4069-bab8-53f2618b7671.png)
 
 **Repo:**
 
@@ -344,7 +344,7 @@ Requirements:
     -   `styles/3-footer.css`: for the footer style
     -   `styles/6-filters.css`: for the filters style
 
-![](https://holbertonintranet.s3.amazonaws.com/uploads/medias/2020/9/2fc49432137a0f660dedf3fd4b3d86449a72bc53.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOU5BHMTQX4%2F20211119%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20211119T162205Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=814f6ab186961f992cf95637824ecb63029d4b012ada71fba0c8db39f002702e)  ![](https://holbertonintranet.s3.amazonaws.com/uploads/medias/2020/9/5aa1d0291e579abd8fc9876af9b9d089147268e2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOU5BHMTQX4%2F20211119%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20211119T162205Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=d5240343d1c6f3035db2e2c15ebec473fa6a8dce55f8f30604de5d41e59690b5)
+![](https://user-images.githubusercontent.com/85469830/142686373-63afffb1-b7bd-467f-b647-358696ce25e0.png)  ![](https://user-images.githubusercontent.com/85469830/142686407-15f7289b-33b2-4b2d-9ce0-188d4f8ebf69.png)
 
 **Repo:**
 
@@ -393,7 +393,7 @@ Requirements:
     -   `styles/6-filters.css`: for the filters style
     -   `styles/7-places.css`: for the places style
 
-![](https://holbertonintranet.s3.amazonaws.com/uploads/medias/2020/9/4655b5086fc9b7832927f0a2ac6f04dc0b44775b.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOU5BHMTQX4%2F20211119%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20211119T162205Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=ea7fbf2cdd1824656a96e45f3153cada87afcb3ef71aafccb8bccbbd7f7257f1)
+![](https://user-images.githubusercontent.com/85469830/142686458-491a9a18-ee2c-46f0-a093-78d23e7f1efd.png)
 
 **Repo:**
 
@@ -467,7 +467,7 @@ Requirements:
     -   `styles/6-filters.css`: for the filters style
     -   `styles/8-places.css`: for the places style
 
-![](https://holbertonintranet.s3.amazonaws.com/uploads/medias/2020/9/f47a405fccad371100ff9665dae9b3a84a471e62.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOU5BHMTQX4%2F20211119%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20211119T162205Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=79e7fd521b3a1f11d1e18679cdc59d2c56fd445f89677df5e7cbfb3cc6781c08)
+![](https://user-images.githubusercontent.com/85469830/142686496-ae305a3b-7db2-4cf9-b4ec-43abe5e64011.png)
 
 **Repo:**
 
@@ -529,7 +529,7 @@ Requirements:
     -   `styles/6-filters.css`: for the filters style
     -   `styles/100-places.css`: for the places style
 
-![](https://holbertonintranet.s3.amazonaws.com/uploads/medias/2020/9/0e0e57ed2baf9239cc87000a5f81b54011a924e9.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOU5BHMTQX4%2F20211119%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20211119T162205Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=ae9d9e5165d0cde33d8c5bf9a09a13dd5093c171cb2813d76104966cb0293019)
+![](https://user-images.githubusercontent.com/85469830/142686536-779eff52-097e-4603-b6cc-7fb3f04d3090.png)
 
 **Repo:**
 
