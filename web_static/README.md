@@ -104,7 +104,7 @@ Requirements:
 -   You are not allowed to use the  `style`  tag in the  `head`  tag
 -   Use inline styling for all your tags
 
-![](https://holbertonintranet.s3.amazonaws.com/uploads/medias/2020/9/939d6b9448e63776610d05d2226aa8985209ee4d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOU5BHMTQX4%2F20211119%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20211119T162205Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=43fdf419ff9c419fe2e9333506673f5c5553c0e0ee152f817bd7c7154ee72a5d)
+![](https://user-images.githubusercontent.com/85469830/142673065-2ab6c7e4-1af9-4d6e-bffd-aa32653b433f.png)
 
 **Repo:**
 
