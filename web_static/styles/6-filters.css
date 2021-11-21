@@ -105,3 +105,7 @@
 .amenities>ul {
     padding-bottom: 1.8em;
 }
+
+.amenities .popover>li {
+    padding-left: 2.8em;
+}
