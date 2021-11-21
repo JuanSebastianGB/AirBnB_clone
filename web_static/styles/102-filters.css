@@ -144,3 +144,11 @@
         width      : 50%;
     }
 }
+
+.filters h2,
+.filters h3,
+.filters h4 {
+    box-sizing        : border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing   : border-box;
+}
